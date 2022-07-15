@@ -1,0 +1,6 @@
+WMath.cpp:25:13:void randomSeed(uint32_t)	16	static
+WMath.cpp:33:13:long int random(long int)	16	static
+WMath.cpp:43:13:long int random(long int, long int)	24	static
+WMath.cpp:55:13:long int map(long int, long int, long int, long int, long int)	24	static
+WMath.cpp:60:17:uint16_t makeWord(uint16_t)	16	static
+WMath.cpp:65:17:uint16_t makeWord(uint8_t, uint8_t)	16	static
